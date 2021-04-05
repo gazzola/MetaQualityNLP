@@ -1,8 +1,8 @@
 # MetaQualityNLP
 Usando uma rede neural profunda (LSTM) para predição da qualidade de metadados (MetaQualityNLP)
 
-**Obs.:** Essa é uma versão do corpus atualizada, onde separamos em 2 partes: _**small data**_ e **versão completa de dados**
-Na tese de doutorado realizamos experimentos usando _small data_ e o **conjunto completo de dados**.
+**Obs.:** Essa é uma versão do corpus atualizada, onde separamos em 2 partes: _**small data**_ e **versão completa de dados**.
+Na tese de doutorado (futuramente colocaremos como citar a tese de doutorado, neste momento você pode citar o artigo publicado no SBIE) realizamos experimentos usando _small data_ e o **conjunto completo de dados**.
 
 ## Como citar ?
 
